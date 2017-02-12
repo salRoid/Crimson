@@ -10,10 +10,11 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.webianks.exp.crimson.About;
 import com.webianks.exp.crimson.R;
+import com.webianks.exp.crimson.all_tests.Tests;
 import com.webianks.exp.crimson.reports.SaveReports;
 import com.webianks.exp.crimson.sleep_better.SleepBetter;
-import com.webianks.exp.crimson.Tests;
 import com.webianks.exp.crimson.ViewPagerAdapter;
 import com.webianks.exp.crimson.facts.Facts;
 import com.webianks.exp.crimson.tips.HealthyEyeTips;
@@ -86,6 +87,8 @@ public class MainActivity extends AppCompatActivity {
             startActivity(new Intent(this,SearchClinics.class));
         else if (id == R.id.ic_reports)
             startActivity(new Intent(this, SaveReports.class));
+        else if (id == R.id.ic_reminder)
+            startActivity(new Intent(this,CheckupReminders.class));
 
         return super.onOptionsItemSelected(item);
     }

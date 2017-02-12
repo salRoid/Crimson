@@ -1,13 +1,37 @@
 #Crimson
 
+<img src="https://github.com/webianks/Crimson/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="128" width="128" >
+
 The eye is not only the most beautiful but also the most important sensory organ of the human body; four fifths of all the impressions on the senses come from the eye. Moreover, the eyes make an essential contribution to the facial expression and serve for getting into contact with other people, therefore they are an indispensible means of communication. What if there was an App, which is your mate in all things related to your eyes ?
 
 "Crimson" an Android Application can prove to be the ultimate care taker of your eyes in the following ways :- 
 
-1. It provides all the awareness and things to be done to maintain healthy eyes, like what to do and not to, what to eat etc.
-2. Continuously checks for the eye related problems like nearsightedness, farsightedness, colour blindness etc.
-3. Relaxation tips and exercises like colour filtering of screen for better sleep. 
-4. Eye test reminders and suggesting nearby doctors. 
+<ul>
+<li>Facts & Awareness</li>
+<li>Sleep Better - <B>Blue Light Filter</B> & <B>Digital Eye Strain</B></li>
+<li>Eye Tests - like nearsightedness, farsightedness, colour blindness etc </li>
+<li>Eye Test Reminders</li>
+<li>Nearby clinics on map.</li>
+<li>Store reports on cloud</li>
+</ul>
+
+#Preview
+
+<img src="https://github.com/webianks/crimson/blob/master/screens/screen_one.png" align="left" height="700" width="400" >
+<img src="https://github.com/webianks/crimson/blob/master/screens/screen_two.png"  height="700" width="400" >
+
+
+##Implementations
+
+<ul>
+<li>JSON Parsing</li>
+<li>Services & Receivers</li>
+<li>Google Maps Api </li>
+<li>Google Calender Api</li>
+<li>Firebase Social Login & Storage</li>
+
+</ul>
+
 
 ```
  Copyright 2017 Ramankit Singh
