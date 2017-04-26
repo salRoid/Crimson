@@ -1,4 +1,4 @@
-#Crimson
+# Crimson
 
 <img src="https://github.com/webianks/Crimson/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="128" width="128" >
 
@@ -15,13 +15,13 @@ The eye is not only the most beautiful but also the most important sensory organ
 <li>Store reports on cloud</li>
 </ul>
 
-#Preview
+# Preview
 
 <img src="https://github.com/webianks/crimson/blob/master/screens/screen_one.png" align="left" height="700" width="400" >
 <img src="https://github.com/webianks/crimson/blob/master/screens/screen_two.png"  height="700" width="400" >
 
 
-##Implementations
+## Implementations
 
 <ul>
 <li>JSON Parsing</li>
